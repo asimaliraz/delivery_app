@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "920089957067",
+    "firebase_url": "https://dumy-608a0-default-rtdb.firebaseio.com",
+    "project_id": "dumy-608a0",
+    "storage_bucket": "dumy-608a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920089957067:android:9e07c789b703bc77ff414e",
+        "android_client_info": {
+          "package_name": "com.teahease.dumy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgQ-CVCWXaSnYhVyBqdF78zXPereAeP8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
